@@ -19,7 +19,7 @@
 
 ## compconsumer
 
-A Fiori application.
+A Fiori application..
 
 ### Starting the generated app
 
