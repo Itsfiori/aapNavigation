@@ -17,7 +17,7 @@ sap.ui.define([
                 this.getView().setModel(oViewModel, "local");
             },
 
-            initComponent: function (sCustomerID) {
+            initComponent: function (sCustomerID) { debugger
                 if (!this._customerDetailComponent) {
                     var oCustomerDetailComponent = this.getOwnerComponent().createComponent({
                         usage: "customerDetailComponent",
